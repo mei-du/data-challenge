@@ -1,1 +1,1 @@
-WEHI data challenge!
+WEHI data analysis challenge!
